@@ -21,7 +21,7 @@ class StandardDeviation
     
     /**
     * This method is used to sum all values of array
-    @return int
+    * @return int
     */
 	protected function sumSomeGroup(Array $someGroup)
 	{
