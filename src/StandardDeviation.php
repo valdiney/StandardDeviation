@@ -1,6 +1,6 @@
 <?php 
 /**
-Description: This class is used to obtain Standard Deviation of data set
+* Description: This class is used to obtain Standard Deviation of data set
 */
 
 namespace Statistic;
