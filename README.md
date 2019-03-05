@@ -1,5 +1,5 @@
 # StandardDeviation
-Class is used to obtain Standard Deviation of data set
+The internal functionality of this class is manipulate a data set to obtain the standard deviation and the variance of the set.
 
 # Description
 <p>
