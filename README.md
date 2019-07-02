@@ -1,7 +1,7 @@
 # StandardDeviation
 The internal functionality of this class is manipulate a data set to obtain the standard deviation and the variance of the set.
 
-<img src="https://scontent.fssa18-1.fna.fbcdn.net/v/t1.0-9/53179988_2037559849699913_5974770022403276800_n.jpg?_nc_cat=100&_nc_ht=scontent.fssa18-1.fna&oh=03899f61e02d7ae4271a8e104b547f38&oe=5D0EF0A2">
+<img src="https://www.thoughtco.com/thmb/GVy7U2pn2FP2Tut4MG53ZiCgOCQ=/768x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/calculate-a-sample-standard-deviation-3126345-v4-CS-01-5b76f58f46e0fb0050bb4ab2.png">
 
 # Description
 <p>
